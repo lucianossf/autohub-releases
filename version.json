@@ -1,0 +1,14 @@
+{
+  "version": "1.0.9",
+  "versionCode": 10,
+  "minimumVersionCode": 1,
+  "forceUpdate": false,
+  "downloadUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.8/app-release.apk",
+  "directApkUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.8/app-release.apk",
+  "changelog": [
+    "Carregamento instantâneo offline (0ms) com Stale-While-Revalidate",
+    "Máscaras automáticas de valores (R$), CPF/CNPJ, Telefone e Placa",
+    "Botões diretos de WhatsApp e Ligação na lista de vendas",
+    "Shimmer Skeletons, busca com debounce e feedback tátil (Haptic)"
+  ]
+}
