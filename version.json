@@ -6,10 +6,9 @@
   "downloadUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.10/app-release.apk",
   "directApkUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.10/app-release.apk",
   "changelog": [
-    "Sistema oficial de atualizacoes OTA no repositorio publico oficial",
-    "Seguranca reforcada: trafego estritamente criptografado (TLS/Cleartext bloqueado)",
-    "Otimizacao R8 e ProGuard com regras completas de integridade e estabilidade",
-    "Carregamento instantaneo offline (0ms) com Stale-While-Revalidate",
-    "Correcao definitiva da verificacao de atualizacoes no Android"
+    "Correcao de layout: valor do lucro liquido previsto perfeitamente enquadrado dentro do card (sem vazar os zeros)",
+    "Correcao no registro de vendas: resolucao definitiva do erro Bad Request na conclusao da venda",
+    "Ajuste visual no campo de valor negociado removendo prefixo duplicado",
+    "Sistema oficial de atualizacoes OTA no repositorio publico oficial"
   ]
 }
