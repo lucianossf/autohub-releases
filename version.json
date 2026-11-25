@@ -1,14 +1,16 @@
 {
-  "version": "1.0.10",
-  "versionCode": 11,
+  "version": "1.0.11",
+  "versionCode": 12,
   "minimumVersionCode": 1,
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.10/app-release.apk",
-  "directApkUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.10/app-release.apk",
+  "sha256": "d8f10412ac5148e21397898bea4ab89c1b9aebd7de5d930b1dfd671e9164ef98",
+  "downloadUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.11/app-release.apk",
+  "directApkUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.11/app-release.apk",
   "changelog": [
-    "Correcao de layout: valor do lucro liquido previsto perfeitamente enquadrado dentro do card (sem vazar os zeros)",
-    "Correcao no registro de vendas: resolucao definitiva do erro Bad Request na conclusao da venda",
-    "Ajuste visual no campo de valor negociado removendo prefixo duplicado",
-    "Sistema oficial de atualizacoes OTA no repositorio publico oficial"
+    "Sincronizacao automatica do Dashboard, Estoque e Vendas ao concluir venda ou alterar veiculo/peca",
+    "Correcao de layout: card de lucro enquadrado e campo de CEP sem corte",
+    "Correcao do preco no modal de pecas com mascara BRL e placas Mercosul",
+    "Seguranca reforcada: JWT criptografado no KeyStore do Android e ofuscacao R8 ativa",
+    "Melhorias de UX: autofill no login, aviso de cold start e logout completo"
   ]
 }
