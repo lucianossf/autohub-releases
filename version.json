@@ -1,16 +1,16 @@
 {
-  "version": "1.0.11",
-  "versionCode": 12,
+  "version": "1.0.12",
+  "versionCode": 13,
   "minimumVersionCode": 1,
   "forceUpdate": false,
-  "sha256": "d8f10412ac5148e21397898bea4ab89c1b9aebd7de5d930b1dfd671e9164ef98",
-  "downloadUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.11/app-release.apk",
-  "directApkUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.11/app-release.apk",
+  "sha256": "355d2adc6864af4b0f68305866dad4a99e48eb6f4d20c1761ab6005057785fc0",
+  "downloadUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.12/app-release.apk",
+  "directApkUrl": "https://github.com/lucianossf/autohub-releases/releases/download/v1.0.12/app-release.apk",
   "changelog": [
-    "Sincronizacao automatica do Dashboard, Estoque e Vendas ao concluir venda ou alterar veiculo/peca",
-    "Correcao de layout: card de lucro enquadrado e campo de CEP sem corte",
-    "Correcao do preco no modal de pecas com mascara BRL e placas Mercosul",
-    "Seguranca reforcada: JWT criptografado no KeyStore do Android e ofuscacao R8 ativa",
-    "Melhorias de UX: autofill no login, aviso de cold start e logout completo"
+    "Evolucao Mensal no Dashboard com receita, lucro e quantidade de vendas por mes",
+    "Modo Claro (Patio / Sol) selecionavel na aba Perfil para melhor leitura externa",
+    "Detalhes completos da venda ao tocar em qualquer card do historico",
+    "Filtros por periodo (Este Mes / Mes Passado) no historico de vendas",
+    "Validacao SHA-256 em Isolate dedicado, retry offline em Carros/Vendas e Widget Tests"
   ]
 }
